@@ -43,8 +43,8 @@ My dreaming job is Data Analysis
  
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
-  <a href="https://twitter.com/naiman_alex](https://www.facebook.com/ts.hee2002/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Ffacebook_4701482&psig=AOvVaw21ZxCWmKSVHGhapb0rGX79&ust=1683052442957000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi2u4rh1P4CFQAAAAAdAAAAABAD)" height="35px" style="margin: 5px;" />
+  <a href="https://www.facebook.com/ts.hee2002/">
+    <img src="https://raw.githubusercontent.com/camtu837/camtu837/main/4701482.png" height="35px" style="margin: 5px;" />
   </a>
   <a href="mailto:20520837@gm.uit.edu.vn">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
