@@ -44,7 +44,7 @@ My dreaming job is Data Analysis
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
   <a href="https://www.facebook.com/ts.hee2002/">
-    <img src="https://raw.githubusercontent.com/camtu837/camtu837/main/images.png" height="35px" style="margin: 5px;" />
+    <img src="https://raw.githubusercontent.com/camtu837/camtu837/main/facebook-logo-icon-design-vector-png_124139.jpg" height="35px" style="margin: 5px;" />
   </a>
   <a href="mailto:20520837@gm.uit.edu.vn">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
