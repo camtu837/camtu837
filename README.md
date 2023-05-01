@@ -17,15 +17,15 @@ My dreaming job is Data Analysis
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently studying about ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Distributed Database
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Database Management System
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Information System Analysis and Design
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Project management
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  Data Mining
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Business Analysis
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Datawarehouse and OLAP
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Social Network
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently learning about ...
+- Distributed Database
+- Database Management System
+- Information System Analysis and Design
+- Project management
+- Data Mining
+- Business Analysis
+- Datawarehouse and OLAP
+- Social Network
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px" /> Complex animations and Gesture Handling on React-Native
@@ -42,14 +42,8 @@ My dreaming job is Data Analysis
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
-  <a href="https://twitter.com/naiman_alex">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
-  </a>
   <a href="https://www.instagram.com/alex.naiman.4/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexandru-nicolae-naiman-28b60a137/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
   <a href="https://discord.gg/KgF4WGf">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
@@ -61,21 +55,9 @@ My dreaming job is Data Analysis
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
 <p align="center">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+
              
 </p>
 
