@@ -4,7 +4,7 @@
   <samp>
     My name is <em>Cẩm Tú</em>. I am a student...
   <br/> Studying at University of Technology
-    <br/> faculty Information System
+    <br/> Faculty of Information System
       <br/>
 My dreaming job is Data Analysis
           <br/>
@@ -17,9 +17,16 @@ My dreaming job is Data Analysis
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  a finnance mobile app
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  games developed with some friends
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently studying about ...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Distributed Database
+- - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Database Management System
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Information System Analysis and Design
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Project management
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  Data Mining
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Business Analysis
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Datawarehouse and OLAP
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Social Network
+
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px" /> Complex animations and Gesture Handling on React-Native
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/unity.png" height="30px" /> Unity 'n' Game Design
