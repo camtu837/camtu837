@@ -2,13 +2,13 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Cẩm Tú</em>. I am a ... 'n' I don't know... 
+    My name is <em>Cẩm Tú</em>. I am a ... I don't know... 
   <br/> Study at University of Technology
     <br/> (<em>ex</em>) Fulltime student.
       <br/>
-Creating games for fun, composing songs,
+My dreaming job is Data Analysis
           <br/>
-continuously learning, wanting to help the community
+          or Data Engineer
   </samp>
   <br/>
   <br/>
