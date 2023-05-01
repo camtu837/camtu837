@@ -36,13 +36,16 @@ My dreaming job is Data Analysis
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Data Engineer
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  intershippppp
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" /> internshippppp
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help
  
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
+  <a href="https://twitter.com/naiman_alex](https://www.facebook.com/ts.hee2002/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Ffacebook_4701482&psig=AOvVaw21ZxCWmKSVHGhapb0rGX79&ust=1683052442957000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi2u4rh1P4CFQAAAAAdAAAAABAD)" height="35px" style="margin: 5px;" />
+  </a>
   <a href="mailto:20520837@gm.uit.edu.vn">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
@@ -53,11 +56,9 @@ My dreaming job is Data Analysis
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
 
-             
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
-
 
 <!--START_SECTION:waka-->
 ```text
