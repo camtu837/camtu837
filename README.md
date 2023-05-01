@@ -2,13 +2,13 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Cẩm Tú</em>. I am a ... I don't know... 
-  <br/> Study at University of Technology
-    <br/> (<em>ex</em>) Fulltime student.
+    My name is <em>Cẩm Tú</em>. I am a student...
+  <br/> Studying at University of Technology
+    <br/> faculty Information System
       <br/>
 My dreaming job is Data Analysis
           <br/>
-          or Data Engineer
+          or Data Engineer...
   </samp>
   <br/>
   <br/>
